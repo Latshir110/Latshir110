@@ -6,7 +6,7 @@
 
 Estudio **Ingeniería en Realidad Virtual y Diseño de Juegos Digitales** en la Universidad Bernardo O'Higgins. Hago videojuegos y experiencias interactivas en tiempo real, principalmente en **Unreal Engine** (C++ y Blueprints) y **Unity** (C#).
 
-Me interesa usar el cuerpo como forma de controlar un juego, así que gran parte de lo que hago mezcla software con hardware: **EEG, Arduino, chalecos hápticos y sensores de bioseñales**. También estoy aprendiendo Virtual Production y el pipeline de MetaHuman en Unreal 5.
+Lo que más me interesa es mezclar software con hardware para conectar el mundo físico con el digital. Trabajo con **Arduino, EEG, EMG, chalecos hápticos y sensores de bioseñales**, y me gusta que lo que pasa fuera de la pantalla pueda controlar lo que pasa dentro del juego.
 
 > Ahora mismo estoy desarrollando **EEGame**, mi proyecto de título: un videojuego que se controla con un casco EEG. También estoy buscando mi **primera práctica profesional**.
 
@@ -34,9 +34,9 @@ Me interesa usar el cuerpo como forma de controlar un juego, así que gran parte
       <p>Mi portafolio personal con blog, frontend en Angular y API en Django.</p>
     </td>
     <td width="50%" valign="top">
-      <b>Avatares no antropomórficos</b><br>
-      <sub>Investigación · UCL · Université PSL</sub>
-      <p>Prototipo de videojuego con chaleco háptico y estimulación muscular eléctrica, desarrollado como asistente de investigación.</p>
+      <b>Videojuego con EMG</b><br>
+      <sub>Unity · C# · EMG</sub>
+      <p>Videojuego en Unity que se controla con un sensor EMG, leyendo la actividad eléctrica de los músculos como entrada del jugador.</p>
     </td>
   </tr>
 </table>
@@ -52,6 +52,8 @@ Investigación sobre avatares no antropomórficos con hápticas, en colaboració
 
 **Representante estudiantil, Comité Curricular** · Universidad Bernardo O'Higgins<br>
 <sub>Abril 2026 – Diciembre 2026</sub>
+
+Represento a los estudiantes en el Comité Curricular de la carrera de Ingeniería en Realidad Virtual y Diseño de Juegos Digitales. Participo en el análisis, la revisión y la mejora de aspectos académicos y curriculares, aportando la perspectiva estudiantil en las instancias de discusión con el equipo académico de la Facultad.
 
 <br>
 
@@ -73,7 +75,6 @@ Investigación sobre avatares no antropomórficos con hápticas, en colaboració
   <img src="https://img.shields.io/badge/Unreal_Engine-4b3a8c?style=flat-square" alt="Unreal Engine">
   <img src="https://img.shields.io/badge/Unity-4b3a8c?style=flat-square" alt="Unity">
   <img src="https://img.shields.io/badge/Blueprints-4b3a8c?style=flat-square" alt="Blueprints">
-  <img src="https://img.shields.io/badge/MetaHuman-4b3a8c?style=flat-square" alt="MetaHuman">
   <img src="https://img.shields.io/badge/C++-7c5cff?style=flat-square" alt="C++">
   <img src="https://img.shields.io/badge/C%23-7c5cff?style=flat-square" alt="C#">
   <img src="https://img.shields.io/badge/Python-7c5cff?style=flat-square" alt="Python">
@@ -83,6 +84,7 @@ Investigación sobre avatares no antropomórficos con hápticas, en colaboració
   <img src="https://img.shields.io/badge/Marvelous_Designer-c2478a?style=flat-square" alt="Marvelous Designer">
   <img src="https://img.shields.io/badge/Arduino-ff5fa2?style=flat-square" alt="Arduino">
   <img src="https://img.shields.io/badge/EEG-ff5fa2?style=flat-square" alt="EEG">
+  <img src="https://img.shields.io/badge/EMG-ff5fa2?style=flat-square" alt="EMG">
   <img src="https://img.shields.io/badge/Hápticas-ff5fa2?style=flat-square" alt="Hápticas">
   <img src="https://img.shields.io/badge/Sensores_de_bioseñales-ff5fa2?style=flat-square" alt="Sensores de bioseñales">
 </p>
