@@ -57,23 +57,23 @@ Investigación sobre avatares no antropomórficos con hápticas, en colaboració
 
 ### Reconocimientos
 
-| | |
-|---|---|
-| **Segundo lugar**, Game Jam Social Impact Game | Ministerio de Educación · 2024 |
-| **Ponencia** "Videojuegos biónicos, explorando nuevas interfaces entre cuerpo y máquina" | III Congreso de Diseño de Juegos Digitales, U. Andrés Bello · 2025 |
-| **MetaHuman Pipeline**, introducción a Unreal Engine 5.6 | Universidad Bernardo O'Higgins · 2026 |
-| **Masterclass Virtual Production ICVFX** | Madis Films |
-| **Academia de Liderazgo** | Universidad Bernardo O'Higgins · 2024 |
+<table>
+  <tr><td><b>Segundo lugar</b>, Game Jam Social Impact Game</td><td><sub>Ministerio de Educación · 2024</sub></td></tr>
+  <tr><td><b>Ponencia</b> "Videojuegos biónicos, explorando nuevas interfaces entre cuerpo y máquina"</td><td><sub>III Congreso de Diseño de Juegos Digitales, U. Andrés Bello · 2025</sub></td></tr>
+  <tr><td><b>MetaHuman Pipeline</b>, introducción a Unreal Engine 5.6</td><td><sub>Universidad Bernardo O'Higgins · 2026</sub></td></tr>
+  <tr><td><b>Masterclass Virtual Production ICVFX</b></td><td><sub>Madis Films</sub></td></tr>
+  <tr><td><b>Academia de Liderazgo</b></td><td><sub>Universidad Bernardo O'Higgins · 2024</sub></td></tr>
+</table>
 
 <br>
 
 ### Herramientas
 
 <p>
-  <img src="https://img.shields.io/badge/Unreal_Engine-1a1033?style=flat-square" alt="Unreal Engine">
-  <img src="https://img.shields.io/badge/Unity-1a1033?style=flat-square" alt="Unity">
-  <img src="https://img.shields.io/badge/Blueprints-1a1033?style=flat-square" alt="Blueprints">
-  <img src="https://img.shields.io/badge/MetaHuman-1a1033?style=flat-square" alt="MetaHuman">
+  <img src="https://img.shields.io/badge/Unreal_Engine-4b3a8c?style=flat-square" alt="Unreal Engine">
+  <img src="https://img.shields.io/badge/Unity-4b3a8c?style=flat-square" alt="Unity">
+  <img src="https://img.shields.io/badge/Blueprints-4b3a8c?style=flat-square" alt="Blueprints">
+  <img src="https://img.shields.io/badge/MetaHuman-4b3a8c?style=flat-square" alt="MetaHuman">
   <img src="https://img.shields.io/badge/C++-7c5cff?style=flat-square" alt="C++">
   <img src="https://img.shields.io/badge/C%23-7c5cff?style=flat-square" alt="C#">
   <img src="https://img.shields.io/badge/Python-7c5cff?style=flat-square" alt="Python">
